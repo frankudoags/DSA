@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/frankudoags/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
