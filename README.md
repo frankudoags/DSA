@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/frankudoags/DSA/tree/master/0205-isomorphic-strings) |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/frankudoags/DSA/tree/master/0889-buddy-strings) |
+| [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
+| [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -26,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/frankudoags/DSA/tree/master/0009-palindrome-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
