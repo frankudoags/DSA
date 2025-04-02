@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/frankudoags/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
