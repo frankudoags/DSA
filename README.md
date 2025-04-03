@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/frankudoags/DSA/tree/master/0205-isomorphic-strings) |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/frankudoags/DSA/tree/master/0889-buddy-strings) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/frankudoags/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -35,5 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
