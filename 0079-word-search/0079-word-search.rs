@@ -55,15 +55,20 @@ impl Solution {
         }
 
     pub fn check(board: &Vec<Vec<char>>, word: &Vec<char>) -> bool {
-        //early check to make sure the word can actually be built from the board
-        let map = board.into_iter().flatten()
-        .fold(HashMap::new(), |mut acc, c | {
-            *acc.entry(c).or_insert(0) += 1;
-            acc
-        });
-        for char in word.iter() {
-            if !map.contains_key(&char) {
-                return false
+        let board_counts = board.into_iter().flatten()
+            .fold(HashMap::new(), |mut acc, &c| {
+                *acc.entry(c).or_insert(0) += 1;
+                acc
+            });
+        let word_counts = word.into_iter()
+            .fold(HashMap::new(), |mut acc, &c| {
+                *acc.entry(c).or_insert(0) += 1;
+                acc
+            });
+
+        for (c, &count) in word_counts.iter() {
+            if board_counts.get(c).unwrap_or(&0) < &count {
+                return false;
             }
         }
         true
