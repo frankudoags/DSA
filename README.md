@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/frankudoags/DSA/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/frankudoags/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/frankudoags/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/frankudoags/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
