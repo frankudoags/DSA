@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/frankudoags/DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/frankudoags/DSA/tree/master/0205-isomorphic-strings) |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/frankudoags/DSA/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/frankudoags/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
