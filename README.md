@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/frankudoags/DSA/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/frankudoags/DSA/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/frankudoags/DSA/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/frankudoags/DSA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
