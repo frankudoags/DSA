@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/frankudoags/DSA/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [0837-most-common-word](https://github.com/frankudoags/DSA/tree/master/0837-most-common-word) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/frankudoags/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/frankudoags/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/frankudoags/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -70,8 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/frankudoags/DSA/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/frankudoags/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/frankudoags/DSA/tree/master/0969-number-of-recent-calls) |
+## Sorting
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/frankudoags/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/frankudoags/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
