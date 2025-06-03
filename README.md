@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/frankudoags/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/frankudoags/DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/frankudoags/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/frankudoags/DSA/tree/master/0205-isomorphic-strings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/frankudoags/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/frankudoags/DSA/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/frankudoags/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/frankudoags/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
