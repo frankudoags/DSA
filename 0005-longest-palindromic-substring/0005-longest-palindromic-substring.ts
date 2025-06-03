@@ -1,18 +1,19 @@
 function longestPalindrome(s: string): string {
     if (!s || s.length <= 1) { return s }
-    let longestPalindrome = s.substring(0, 1)
+    let longest = s.substring(0, 1)
 
     for (let i = 0; i < s.length; i++){
-        let longestEvenPalindrome = findPalindrome(s, i, i);
-        let longestOddPalindrome = findPalindrome(s, i - 1, i);
-        [longestEvenPalindrome, longestOddPalindrome].forEach((palindrome) => {
-            if(palindrome.length > longestPalindrome.length) {
-                longestPalindrome = palindrome;
+        let even_pal = findPalindrome(s, i, i);
+        let odd_pal = findPalindrome(s, i - 1, i);
+
+        [even_pal, odd_pal].forEach((palindrome) => {
+            if(palindrome.length > longest.length) {
+                longest = palindrome;
             }
         })
     }
 
-    return longestPalindrome
+    return longest
 };
 
     const findPalindrome = (s: string, l: number, r: number): string => {
